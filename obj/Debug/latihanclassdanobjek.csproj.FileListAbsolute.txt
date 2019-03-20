@@ -1,0 +1,7 @@
+D:\18.11.2324\latihanclassdanobjek\latihanclassdanobjek\bin\Debug\latihanclassdanobjek.exe.config
+D:\18.11.2324\latihanclassdanobjek\latihanclassdanobjek\bin\Debug\latihanclassdanobjek.exe
+D:\18.11.2324\latihanclassdanobjek\latihanclassdanobjek\bin\Debug\latihanclassdanobjek.pdb
+D:\18.11.2324\latihanclassdanobjek\latihanclassdanobjek\obj\Debug\latihanclassdanobjek.csprojAssemblyReference.cache
+D:\18.11.2324\latihanclassdanobjek\latihanclassdanobjek\obj\Debug\latihanclassdanobjek.csproj.CoreCompileInputs.cache
+D:\18.11.2324\latihanclassdanobjek\latihanclassdanobjek\obj\Debug\latihanclassdanobjek.exe
+D:\18.11.2324\latihanclassdanobjek\latihanclassdanobjek\obj\Debug\latihanclassdanobjek.pdb
